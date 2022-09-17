@@ -5,14 +5,8 @@
 Projeto construido no evento Next Level Week da <a blank="_target" href="https://www.rocketseat.com.br/"> Rocketseat.</a>
 <br><br>
 
-![preview](./.github/preview.png)<br>
+![preview](./.github/preview.png)
 
-<<<<<<< HEAD:Trilha Explore/README.md
-
-<br>
-=======
-<br><br>
->>>>>>> 88b37563baca65ba7abe4b50a5a57242d0ea5be5:README.md
 🛠️ TECNOLOGIAS
 <br>
 Foram ultilizadas as seguintes tecnologias nesse projeto:
@@ -26,15 +20,12 @@ Foram ultilizadas as seguintes tecnologias nesse projeto:
 </ol>
 <br>
 
-AUTOR
-<<<<<<< HEAD:Trilha Explore/README.md
+AUTOR<br>
 
-<img src="https://avatars.githubusercontent.com/u/109369848?s=400&u=51b308e641383df533b0c07607d072e93848ea3a&v=4" style=" width: 100px;border-radius:10px;">
+<!-- ![Author](/.github/Author.png) -->
 
-=======
- 
- <img src="https://avatars.githubusercontent.com/u/109369848?s=400&u=51b308e641383df533b0c07607d072e93848ea3a&v=4" width="100px">
->>>>>>> 88b37563baca65ba7abe4b50a5a57242d0ea5be5:README.md
+<img src="NLW-eSports/.github/Author.png" width="100px">
+
 
 - 📫 Conecte-se comigo: **spagnol.agape@gmail.com**
 
