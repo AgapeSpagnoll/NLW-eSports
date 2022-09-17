@@ -8,7 +8,7 @@ Projeto construido no evento Next Level Week da <a blank="_target" href="https:/
 ![preview](./.github/preview.png)<br>
 
 
-<br><br>
+<br>
 🛠️ TECNOLOGIAS
 <br>
 Foram ultilizadas as seguintes tecnologias nesse projeto:
@@ -23,12 +23,12 @@ Foram ultilizadas as seguintes tecnologias nesse projeto:
 
 AUTOR
 
-<img src="https://avatars.githubusercontent.com/u/109369848?s=400&u=51b308e641383df533b0c07607d072e93848ea3a&v=4"  style=" width: 100px;border-radius:10px"><br>
+<img src="https://avatars.githubusercontent.com/u/109369848?s=400&u=51b308e641383df533b0c07607d072e93848ea3a&v=4" style=" width: 100px;border-radius:10px;">
 
 
 - 📫 Conecte-se comigo: **spagnol.agape@gmail.com**
 
-<br>
+
 SIGA - ME
 <p align="left">
 <a href="https://twitter.com/agapespagnol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agapespagnol" height="30" width="40" /></a>
