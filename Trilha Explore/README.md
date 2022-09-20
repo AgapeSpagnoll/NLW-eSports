@@ -5,7 +5,7 @@
 Projeto construido no evento Next Level Week da <a blank="_target" href="https://www.rocketseat.com.br/"> Rocketseat.</a>
 <br><br>
 
-![preview](./.github/preview.png)
+![preview](/.github/preview.png)
 
 🛠️ TECNOLOGIAS
 <br>
@@ -24,7 +24,7 @@ AUTOR<br>
 
 <!-- ![Author](/.github/Author.png) -->
 
-<img src="NLW-eSports/.github/Author.png" width="100px">
+<img src="/.github/Author.png" width="100px">
 
 
 - 📫 Conecte-se comigo: **spagnol.agape@gmail.com**
